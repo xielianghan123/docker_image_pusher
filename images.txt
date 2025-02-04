@@ -1,4 +1,1 @@
-infiniflow/ragflow-base:v2.0
-infiniflow/ragflow:v0.15.1
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-
